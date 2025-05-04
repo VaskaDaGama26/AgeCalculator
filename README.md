@@ -35,8 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://vaskadagama26.github.io/AgeCalculator/](https://vaskadagama26.github.io/AgeCalculator/)
 
 ## My process
 
@@ -55,5 +54,5 @@ I learned how to write my own custom hooks for react
 
 ## Author
 
-- Website - [Vasiliy Kirichenko](https://t.me/vaskadagamaa26)
+- TG - [Vasiliy Kirichenko](https://t.me/vaskadagamaa26)
 - Frontend Mentor - [VaskaDaGama26](https://www.frontendmentor.io/profile/VaskaDaGama26)
